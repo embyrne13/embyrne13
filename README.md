@@ -1,5 +1,4 @@
 ### Emily Byrne
-#### [LinkedIn](https://www.linkedin.com/in/emilybyrne3/)
 
 ---
 
