@@ -1,6 +1,5 @@
-- [Welcome Image](https://www.codingadvisory.com/wp-content/uploads/2016/10/Welcome-Script-2.png)
 ### Emily Byrne
-#### [LinkedIn](https://www.linkedin.com/in/emilybyrne3/) | [GitHub](https://github.com/embyrne13) | [Website]()
+#### [LinkedIn](https://www.linkedin.com/in/emilybyrne3/)
 
 ---
 
