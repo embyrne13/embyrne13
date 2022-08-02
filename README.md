@@ -1,6 +1,3 @@
-### Emily Byrne
-
----
 
 ### **_About Me_**
 
