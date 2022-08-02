@@ -1,7 +1,7 @@
 
 ### **_Welcome!_**
 
-#### I am an ambitious and motivated junior software engineer with communication, leadership, and problem-solving skills developed through my years of teaching and my Fulbright grant. I am detail-oriented, creative, and a team player. My international experiences and drive to be challenged make me a distinguished candidate.
+#### I am an ambitious and motivated junior software engineer with communication, leadership, and problem-solving skills developed through my years of teaching and my Fulbright grant. I am detail-oriented, creative, and a team player.
 
 ---
 
