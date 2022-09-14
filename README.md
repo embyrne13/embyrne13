@@ -1,6 +1,5 @@
 
 # Welcome!
-# ![Mountains](https://images.pexels.com/photos/209955/pexels-photo-209955.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 ## Emily Byrne
 
 ## [LinkedIn](https://www.linkedin.com/in/emilybyrne3/)
