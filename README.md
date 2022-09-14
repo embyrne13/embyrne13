@@ -1,6 +1,6 @@
 
 # Welcome!
-# Emily Byrne
+## Emily Byrne
 ## [LinkedIn](https://www.linkedin.com/in/emilybyrne3/)
 #### Full-stack software engineer in the General Assembly Software Engineering Immersive program. 
 ### **_Technical Skills_**
